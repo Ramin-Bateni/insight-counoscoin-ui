@@ -1,10 +1,10 @@
 # Insight UI
 
-A Counoscoin blockchain explorer web application service for [Counoscoincore Node](https://github.com/counoscoin-project/counoscoincore-node) using the [Insight API](https://github.com/counoscoin-project/insight-counoscoin-api).
+A CounosCoin blockchain explorer web application service for [CounosCoincore Node](https://github.com/counoscoin-project/counoscoincore-node) using the [Insight API](https://github.com/counoscoin-project/insight-counoscoin-api).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Counoscoincore](https://github.com/counoscoin-project/counoscoincore).
+Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [CounosCoincore](https://github.com/counoscoin-project/counoscoincore).
 
 ## Getting Started
 

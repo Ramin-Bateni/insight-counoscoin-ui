@@ -22,7 +22,7 @@ msgstr "404 ページがみつかりません (´・ω・`)"
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Counoscoin blockchain explorer</a> with complete REST "
+"\"_blank\">open-source CounosCoin blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by counoscoind RPC.  "
 "Check out the <a href=\"https://github.com/bitpay/insight-ui\" target=\"_blank"
@@ -74,12 +74,12 @@ msgid "Best Block"
 msgstr "最良ブロック"
 
 #: public/views/messages_verify.html
-msgid "Counoscoin comes with a way of signing arbitrary messages."
-msgstr "Counoscoinには任意のメッセージを署名する昨日が備わっています。"
+msgid "CounosCoin comes with a way of signing arbitrary messages."
+msgstr "CounosCoinには任意のメッセージを署名する昨日が備わっています。"
 
 #: public/views/status.html
-msgid "Counoscoin node information"
-msgstr "Counoscoinノード情報"
+msgid "CounosCoin node information"
+msgstr "CounosCoinノード情報"
 
 #: public/views/block.html
 msgid "Block"
@@ -213,8 +213,8 @@ msgid "Last Block"
 msgstr "直前のブロック"
 
 #: public/views/status.html
-msgid "Last Block Hash (Counoscoind)"
-msgstr "直前のブロックのハッシュ値 (Counoscoind)"
+msgid "Last Block Hash (CounosCoind)"
+msgstr "直前のブロックのハッシュ値 (CounosCoind)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
@@ -426,17 +426,17 @@ msgstr "このアドレスに対するトランザクションはありません
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Counoscoin network."
+"        the CounosCoin network."
 msgstr ""
-"このフォームでは、16進数フォーマットの生のトランザクションをCounoscoinネットワー"
+"このフォームでは、16進数フォーマットの生のトランザクションをCounosCoinネットワー"
 "ク上に配信することができます。"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Counoscoin address."
+"        a specific CounosCoin address."
 msgstr ""
-"このフォームでは、メッセージが特定のCounoscoinアドレスから来たかどうかを検証する"
+"このフォームでは、メッセージが特定のCounosCoinアドレスから来たかどうかを検証する"
 "ことができます。"
 
 #: public/views/status.html
@@ -453,7 +453,7 @@ msgstr "今日"
 
 #: public/views/status.html
 msgid "Total Amount"
-msgstr "Counoscoin総量"
+msgstr "CounosCoin総量"
 
 #: public/views/address.html
 msgid "Total Received"
